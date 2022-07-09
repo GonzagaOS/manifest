@@ -84,7 +84,7 @@
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom-caf_wlan" remote="nad" />
 
   <!-- Official devices -->
-  <project path="official-devices" name="official-devices" remote="gonzaga" revision="12" />
+  <project path="official-devices" name="official-devices" remote="gonzaga" revision="master" />
 
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="komodo" />
