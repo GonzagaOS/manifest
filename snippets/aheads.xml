@@ -13,7 +13,7 @@
            sync-j="16" />
 
   <remote  name="gonzaga"
-           fetch="https://github.com/Gonzaga-OS/"
+           fetch="https://github.com/GonzagaOS/"
            revision="12"
            sync-j="16" />
 
