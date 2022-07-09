@@ -13,7 +13,7 @@
 repo init -u https://github.com/Gonzaga-OS/manifest.git -b 12
 
 # Sync
-repo sync
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 ### Build ###
