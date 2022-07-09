@@ -111,8 +111,8 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="komodo" />
 
   <!-- System -->
-  <project path="system/bt" name="system_bt" remote="javanese" />
-  <project path="system/core" name="system_core" remote="komodo" />
+  <project path="system/bt" name="system_bt" remote="komodo" />
+  <project path="system/core" name="system_core" remote="gonzaga" />
   <project path="system/hardware/interfaces" name="system_hardware_interfaces" remote="komodo" />
   <!--<project path="system/qcom" name="system_qcom" remote="komodo" /-->
   <project path="system/memory/lmkd" name="system_memory_lmkd" remote="komodo" />
