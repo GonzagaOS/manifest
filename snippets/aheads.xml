@@ -6,6 +6,16 @@
            fetch="https://github.com/Komodo-OS/"
            revision="12"
            sync-j="16" />
+  
+  <remote  name="javanese"
+           fetch="https://github.com/Javanese-OS/"
+           revision="11"
+           sync-j="16" />
+
+  <remote  name="rayhandz"
+           fetch="https://github.com/RayhanDz/"
+           revision="11"
+           sync-j="16" />
 
   <remote  name="dudu"
            fetch="https://github.com/BiancaProject/"
@@ -37,6 +47,6 @@
  
   <include name="snippets/remove.xml" />
   <include name="snippets/lineage.xml" />
-  <include name="snippets/komodo.xml" />
+  <include name="snippets/javanese.xml" />
 
 </manifest>
