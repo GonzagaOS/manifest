@@ -12,6 +12,11 @@
            revision="11"
            sync-j="16" />
 
+  <remote  name="gonzaga"
+           fetch="https://github.com/Gonzaga-OS/"
+           revision="12"
+           sync-j="16" />
+
   <remote  name="rayhandz"
            fetch="https://github.com/RayhanDz/"
            revision="11"
@@ -39,11 +44,6 @@
   <!-- Gitlab remote -->
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
-
-  <!-- Private remote -->
-  <remote  name="priv"
-           fetch="ssh://git@github.com/Komodo-OS-Rom/"
-           revision="12" />
  
   <include name="snippets/remove.xml" />
   <include name="snippets/lineage.xml" />
