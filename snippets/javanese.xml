@@ -8,7 +8,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="komodo" />
  
   <!-- Build -->
-  <project path="build/make" name="build" remote="komodo" >
+  <project path="build/make" name="build" remote="javanese" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
