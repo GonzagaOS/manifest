@@ -83,9 +83,6 @@
   <project path="hardware/qcom-caf/sm8150/media" name="android_hardware_qcom_media" revision="12-sm8150" remote="nad" />
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom-caf_wlan" remote="nad" />
 
-  <!-- Official devices -->
-  <project path="official-devices" name="official-devices" remote="gonzaga" />
-
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="komodo" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="komodo" />
